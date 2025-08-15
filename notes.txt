@@ -1,0 +1,30 @@
+--JS:
+1.Fazer lógica para um objeto de perguntas e respostas
+o objeto deve conter {
+    Pergunta: '...'
+    alternativas ['...', '...', '...', '...']
+    resposta: [...]
+}
+
+2.O objeto deve ser armazenado em um array com todas as perguntas.
+
+3.Criar uma função que embaralha todas o array de perguntas (fisher-yates).
+
+4.Criar uma função que exibe a primeira pergunta do e retira ela do array de perguntas e armazena em um outro array.
+
+5.Criar um array para armazenar as peguntas que foram feitas.
+
+5.Criar um contador que verifica quantas perguntas o usuário acertou.
+
+6.Exibir todas as peguntas feitas e suas respostas, o número de acertos e uma mensagem baseada no desempenho do usurário.
+
+--HTML:
+
+1.Criar layout da página
+o layout ter um container e dentro desse container deve ter um h1 e o espaço que as peguntas irão aparecer.
+
+2.Criar um place-holder no local que as perguntas irão ficar
+
+3.Criar uma footer
+
+4.Criar container que ira exibir o número de acertos e as perguntas.
