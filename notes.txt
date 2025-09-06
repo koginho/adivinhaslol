@@ -3,7 +3,7 @@
 o objeto deve conter {
     Pergunta: '...'
     alternativas ['...', '...', '...', '...']
-    resposta: [...]
+    resposta: '...'
 }
 
 2.O objeto deve ser armazenado em um array com todas as perguntas.

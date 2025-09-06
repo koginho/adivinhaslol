@@ -23,7 +23,7 @@ function main() {
     
     questionsArray.push(question_1, question_2, question_3, question_4, question_5);
 
-    console.log(questionsArray)
+    console.log(questionsArray[3])
 
     const questionShuffle = questionsArray => {
         for(let i = questionsArray.length - 1; i > 0; i--) {
