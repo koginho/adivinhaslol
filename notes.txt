@@ -10,7 +10,7 @@ o objeto deve conter {
 
 3.Criar uma função que embaralha todas o array de perguntas (fisher-yates).
 
-4.Criar uma função que exibe a primeira pergunta do e retira ela do array de perguntas e armazena em um outro array.
+4.Criar uma função que exibe a primeira pergunta e retira ela do array de perguntas e armazena em um outro array.
 
 5.Criar um array para armazenar as peguntas que foram feitas.
 
@@ -21,10 +21,9 @@ o objeto deve conter {
 --HTML:
 
 1.Criar layout da página
-o layout ter um container e dentro desse container deve ter um h1 e o espaço que as peguntas irão aparecer.
+o layout deve ter um container e dentro desse container ter um h1 e o espaço que as peguntas irão aparecer.
 
-2.Criar um place-holder no local que as perguntas irão ficar
+2.A pagina deve conter um botão que envia uma pegunta e um outro que envia a resposta.
 
-3.Criar uma footer
+3.
 
-4.Criar container que ira exibir o número de acertos e as perguntas.

@@ -1,13 +1,37 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adivinhas</title>
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
+
 <body>
+    <div class="mainContainer">
+        <h1>Advinhas LOL!</h1>
+        <p class="questionP"></p>
+
+        <form class="alternativesContainer">
+            <label for="alternative_1" class="alternative_1"></label>
+            <input type="radio" name="alternative" id="alternative_1">
+
+            <label for="alternative_2" class="alternative_2"></label>
+            <input type="radio" name="alternative" id="alternative_2">
+
+            <label for="alternative_3" class="alternative_3"></label>
+            <input type="radio" name="alternative" id="alternative_3">
+
+            <label for="alternative_4" class="alternative_4"></label>
+            <input type="radio" name="alternative" id="alternative_4">
+
+            <button type="button" id="questionButton">request</button>
+            <button type="button" id="questionSubmit">submit</button>
+        </form>
+    </div>
 
     <script src="assets/js/script.js"></script>
 </body>
+
 </html>
